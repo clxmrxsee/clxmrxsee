@@ -3,6 +3,8 @@
 ###
 
 <p align="left">My name is Clément and I'm a developer, from France</p>
+<p align="left">I'm 18</p>
+<p align="left">Student - B.U.T Informatique</p>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Work on some projects... <br>📚 I'm currently learning Java ☕<br>🎯 Goals: Make a big project with a company</p>
+<p align="left">✨ Work on some projects... (Bankroll Manager, Car Rent..)<br>📚 I'm currently learning Java ☕<br>🎯 Goals: Make a big project with a company</p>
 
 ###
 
