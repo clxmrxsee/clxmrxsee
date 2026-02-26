@@ -1,10 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Clément</h1>
 
 ###
 
-<p align="left">My name is Clément and I'm a developer, from France</p>
+<p align="left">I'm Clément and I love to create new projects.</p>
 <p align="left">I'm 18</p>
-<p align="left">Student - B.U.T Informatique</p>
 
 ###
 
@@ -12,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Work on some projects... (Bankroll Manager, Car Rent..)<br>📚 I'm currently learning Java ☕<br>🎯 Goals: Make a big project with a company</p>
+<p align="left">✨ Work on some projects... (Bankroll Manager, Car Rent.., Marketplace to sell your products)<br>📚 I'm currently learning Java ☕<br>🎯 Goals: Just create a popular website one day but just because..</p>
 
 ###
 
