@@ -11,11 +11,11 @@
 
 ###
 
-<p align="left">✨ Work on some projects... (Bankroll Manager, Car Rent.., Marketplace to sell your products)<br>📚 I'm currently learning Java ☕<br>🎯 Goals: Just create a popular website one day but just because..</p>
+<p align="left">✨ Work on some projects... (TennisPronostics, Marketplace)<br>📚 I'm currently learning nothing ☕<br>🎯 Goals: No goals just vibe..</p>
 
 ###
 
-<h2 align="left">I code with Intellij Ultimate / Visual Studio Code</h2>
+<h2 align="left">I code with Intellij Ultimate / Webstorm / Visual Studio Code</h2>
 
 ###
 
