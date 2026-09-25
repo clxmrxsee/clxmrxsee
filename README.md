@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm Clément and I love to create new projects.</p>
-<p align="left">I'm 18</p>
+<p align="left">Just I'm here, that's already pretty good</p>
+<p align="left">I'm 19</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Work on some projects... (TennisPronostics, Marketplace)<br>📚 I'm currently learning nothing ☕<br>🎯 Goals: No goals just vibe..</p>
+<p align="left">✨ No projects at the moment<br>📚 I'm currently learning nothing ☕<br>🎯 Goals: No goals, my head isn't in it..</p>
 
 ###
 
